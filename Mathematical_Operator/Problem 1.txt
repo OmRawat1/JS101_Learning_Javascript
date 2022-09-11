@@ -1,0 +1,6 @@
+var numbers = prompt("Enter Numbers: ").split(" ");
+var prod = 1;
+for (var i = 0; i < numbers.length; i++) {
+  prod *= numbers[i];
+}
+console.log(prod);

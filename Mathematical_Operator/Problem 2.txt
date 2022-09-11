@@ -1,0 +1,6 @@
+var numbers = prompt("Enter Numbers: ").split(" ");
+var sum = 0;
+for (var i = 0; i < numbers.length; i++) {
+  sum += (numbers[i] * 2);
+}
+console.log(sum);

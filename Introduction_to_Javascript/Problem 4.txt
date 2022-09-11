@@ -1,0 +1,16 @@
+var name = 'Ankush Singh';
+var school = 'Green Valley Public School';
+var grade = 'XII';
+var section = 'D';
+var RollNo = 190050100;
+var marks = [90, 85, 92];
+
+console.log(`************************************`);
+console.log(`\t\t\tREPORT CARD `);
+console.log(`************************************\n`);
+console.log(` Name : ${name} \n School : ${school} \n Grade : ${grade} \n Section : ${section} \n Roll Number : ${RollNo}\n`);
+console.log(`************************************`);
+console.log(`\t\t\t MARKS `);
+console.log(`************************************\n`);
+console.log(` English : ${marks[0]} \n Maths : ${marks[1]} \n Computer Science : ${marks[3]}\ns`);
+console.log(`************************************\n`);

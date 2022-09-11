@@ -1,0 +1,3 @@
+let name = 'Om Rawat';
+var age = 19;
+console.log(`${name} \n${typeof(name)} \n${age} \n${typeof(age)}`);
